@@ -1,0 +1,8 @@
+Areia Branca,4.3,5.6,Itabaiana,Socorro
+Itaporanga,2.0,3.0,Lagarto,Socorro
+Laranjeiras,3.0,4.0,Aracaju
+Sao Cristovao,4.0,5.0,
+Socorro,6.0,5.0,Itaporanga,Aracaju,Areia Branca
+Itabaiana,7.0,8.0,Aracaju,Lagarto,Areia Branca
+Lagarto,10.0,9.0,Itaporanga,Itabaiana
+Aracaju,12.0,34.0,Laranjeiras,Itabaiana,Socorro
